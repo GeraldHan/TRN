@@ -45,7 +45,6 @@ Before training, make sure your have following files:
 - input/val_features.h5
 - input_human/vocab.json
 - input_human/train_questions.pt
-- input_huamn/genome-trainval_36.h5
 - input_human/val_questions.pt
 
 ## Train CLEVR
