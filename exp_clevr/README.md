@@ -30,7 +30,7 @@ Baseline models are referred to https://github.com/KaihuaTang/VQA2.0-Recent-Appr
     --clevr_val_img_dir ../../data/raw/CLEVR_v1.0/images/*
     ```
 
-2. Preprocess VQA v2.0 questions. Change the paths to your own save folders.
+2. Preprocess CLEVR questions. Change the paths to your own save folders.
     ```
     cd process
 
