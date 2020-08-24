@@ -5,7 +5,7 @@ Code release for "Interpretable Visual Reasoning via Probabilistic Formulation u
 More details can reffer to the [Supplementary Material](https://github.com/GeraldHan/TRN/blob/master/0895-Supp.pdf).
 
 ```
-@article{haninterpretable,
+@article{han2020interpretable,
   title={Interpretable Visual Reasoning via Probabilistic Formulation under Natural Supervision},
   author={Han, Xinzhe and Wang, Shuhui and Su, Chi and Zhang, Weigang and Huang, Qingming and Tian, Qi},
   booktitle={Proceedings of the European Conference on Computer Vision (ECCV)},
