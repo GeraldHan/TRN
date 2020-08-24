@@ -1,6 +1,8 @@
 # Interpretable Visual Reasoning via Probabilistic Formulation under Natural Supervision
 
-Code release for "Interpretable Visual Reasoning via Probabilistic Formulation under Natural Supervision" (ECCV 2020) [PDF](https://www.ecva.net/papers/eccv_2020/papers_ECCV/papers/123540528.pdf)
+Code release for "Interpretable Visual Reasoning via Probabilistic Formulation under Natural Supervision" (ECCV 2020) ([PDF])(https://www.ecva.net/papers/eccv_2020/papers_ECCV/papers/123540528.pdf)
+
+[Supplementary Material](https://github.com/GeraldHan/TRN/blob/master/0895-Supp.pdf)
 
 ```
 @article{haninterpretable,
