@@ -1,6 +1,15 @@
 # Interpretable Visual Reasoning via Probabilistic Formulation under Natural Supervision
 
-Code release for "Interpretable Visual Reasoning via Probabilistic Formulation under Natural Supervision" (ECCV 2020)
+Code release for "Interpretable Visual Reasoning via Probabilistic Formulation under Natural Supervision" (ECCV 2020) [PDF](https://www.ecva.net/papers/eccv_2020/papers_ECCV/papers/123540528.pdf)
+
+```
+@article{haninterpretable,
+  title={Interpretable Visual Reasoning via Probabilistic Formulation under Natural Supervision},
+  author={Han, Xinzhe and Wang, Shuhui and Su, Chi and Zhang, Weigang and Huang, Qingming and Tian, Qi},
+  booktitle={Proceedings of the European Conference on Computer Vision (ECCV)},
+  year={2020}  
+}
+```
 
 This repo contains the experiments on both VQA v2 and CLEVR dataset. The implementation details are listed in `./exp_vqa` and `./exp_clevr`.
 
